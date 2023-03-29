@@ -12,10 +12,11 @@ const styles = StyleSheet.create({
     container:{
         flex: 1,
         backgroundColor: "white",
-        paddingHorizontal: 20,
+        
         paddingVertical: 25
     },
     topView:{
+        paddingHorizontal: 20,
         marginBottom: 30,
         flexDirection: "row",
 

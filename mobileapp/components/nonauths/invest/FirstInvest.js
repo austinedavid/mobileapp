@@ -20,7 +20,8 @@ export default function FirstInvest(){
 // creating the stylesheet
 const styles = StyleSheet.create({
     container:{
-        alignItems: "center"
+        alignItems: "center",
+        paddingHorizontal: 20,
     },
     img:{
         width: 60,
